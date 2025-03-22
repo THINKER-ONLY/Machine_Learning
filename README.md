@@ -1,1 +1,8 @@
-# Pytorch-Machine_Learning
+# Machine_Learning
+
+## 疑问
+- 这真的是机器学习吗？
+- 我真的在学机器学习吗？
+
+## 展望
+- 现阶段目标——成为调库侠
